@@ -74,8 +74,6 @@ Po nainštalovaní potrebných knižníc si môžeme spustiť na localhoste Jupy
 
 <pre><code>$ jupyter notebook</code></pre>
 
-Ak sa všetko podarilo správne, v tejto chvíli by ste mal vidieť jupyter notebook (bez súborov, ktoré v tejto chvíli mám vytvorené na obrázku):
-
 
 Dátové sety
 --------------
