@@ -78,6 +78,7 @@ Po nainštalovaní potrebných knižníc si môžeme spustiť na localhoste Jupy
 Dátové sety
 --------------
 Vytvor zložku "csv" v hlavnom adresári projektu. Následne stiahni dátové sety a ulož do složky "csv".
+
 1. Dátový set [Instagramu](https://www.dropbox.com/s/otpw5i51y7ugr95/martinus_sk.csv?dl=0)
 2. Dátový set [kníh](https://www.dropbox.com/s/evqcgmdh6xzyemj/martinus_db.csv?dl=0)
 3. Dátový set [používatelia](https://www.dropbox.com/s/l07zudw93wzkiq9/users.csv?dl=0)
