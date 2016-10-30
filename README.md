@@ -62,6 +62,12 @@ V rámci Pandas sa nám naištalovala aj potrebná knižnica numpy.
 
 <pre><code>$ pip install matplotlib</code></pre>
 
+### Inštalácia scipy
+
+[Scipy](https://www.scipy.org/) je knižnica obsahujúca rôzne štatistické a iné funkcie.
+
+<pre><code>$ pip install scipy</code></pre>
+
 ## Spustenie Jupyter notebooku
 
 Po nainštalovaní potrebných knižníc si môžeme spustiť na localhoste Jupyter notebook pomocou príkazu:
