@@ -91,3 +91,10 @@ Instagram skript
 --------------------
 Skript na sťiahnutie dát z rôznych Instagram účtov - [InstagramToCsv](https://github.com/SvetlanaM/InstagramToCsv)
 
+ToDo
+--------------------
+1. Sťahovať vždy na začiatku práce aktuálne dáta z Instagramu 
+2. Zautomatizovať spracovanie clusterov bez nutnosti zadávať hodnoty ručne používateľom
+3. Rozpoznávanie názvu kníh z obrázku, kde nie je hashtag (nice to have)
+4. Poslať výstup priamo cez API na server 
+
