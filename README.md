@@ -42,6 +42,9 @@ Po spustení by malo ukázať pred <code> > </code> alebo <code>$</code> slovo <
 
 Na inštaláciu budeme využívať [pip](https://pypi.python.org/pypi/pip). 
 
+## Inštalácia cez Anacondu
+[Anaconda](https://www.continuum.io/downloads) - obsahuje všetky potrebné balíčky pre prácu. Tí, čo anacondu inštalovať nechcú, pokračujte pokynmi nižšie.
+
 ### Inštalácia Jupyter Notebook
 
 [Jupyter](http://jupyter.org/) notebook je webová aplikácia, ktorá umožňuje zdielať a vytvárať dokumenty obsahujúce "živý" kód, vizualizácie, markdown system, HTML kód a mnoho iného.
