@@ -97,4 +97,5 @@ ToDo
 2. Zautomatizovať spracovanie clusterov bez nutnosti zadávať hodnoty ručne používateľom
 3. Rozpoznávanie názvu kníh z obrázku, kde nie je hashtag (nice to have)
 4. Poslať výstup priamo cez API na server 
+5. Zautomatizovať 
 
